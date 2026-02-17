@@ -6,7 +6,8 @@
 This repo provides three beginner‑friendly JavaScript katas with tests so learners can practice loops, conditionals, and nested loops and verify their solutions.
 
 ## Setup
-No dependencies are required beyond Node.js. Just open the folder in your editor.
+Before you start, fork this repository to your own GitHub account.
+No dependencies are required beyond Node.js. Then clone your fork and open the folder in your editor.
 
 ## Run Instructions
 1. Open the kata file you’re working on (see list below).
